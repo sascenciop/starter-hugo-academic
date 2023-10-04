@@ -65,7 +65,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: [https://www.linkedin.com/](https://www.linkedin.com/in/salvador-ascenciopastora/)
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +80,10 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello.
+
+I'm a Ph.D. candidate in Political Economy and Government (Government Track) from Harvard University. My fields of study are political economy, development and comparative politics. Previously I worked in Mexico's federal government at the Ministry of Finance and Public Credit. 
+
+I am on the non-academic job market in 2023-2024. 
+
 {style="text-align: justify;"}
