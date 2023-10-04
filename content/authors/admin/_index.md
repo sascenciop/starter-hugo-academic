@@ -33,15 +33,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Political Economy and Government
+      institution: Harvard University
+      year: 2024
+    - course: MA in Political Economy and Government
+      institution: Harvard University
+      year: 2021
+    - course: BS in Economics 
+      institution: Instituto Tecnologico Autonomo de Mexico 
+      year: 2016
+    - course: BS in Political Science 
+      institution: Instituto Tecnologico Autonomo de Mexico 
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,13 +54,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com
+    link: www.linkedin.com/in/salvador-ascenciopastora
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
