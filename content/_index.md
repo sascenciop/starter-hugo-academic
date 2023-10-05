@@ -59,7 +59,11 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: contact
+ - block: contact
+    id: contact
+    content:
+      title: Contact
+      # Contact (add or remove contact options as necessary)
       email: sascenciopastora@g.harvard.edu
       phone: 617 530 0430
       address:
@@ -69,4 +73,3 @@ sections:
         postcode: '02138'
         country: United States
         country_code: US
----
