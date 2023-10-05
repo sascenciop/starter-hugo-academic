@@ -43,19 +43,13 @@ sections:
           location: Mexico City
           date_start: '2017-03-01'
           date_end: '2018-08-15'
-          description: |2-
-              Responsibilities include:
-
-              * Policy Analysis
-              * Team Leadership and Stakeholder Coordination
-        - title: Economic Advisor to the Undersecretary of Finance
+ndersecretary of Finance
           company: Ministry of Finance and Public Credit of Mexico
           company_url: ''
           company_logo: org-x
           location: Mexico City
           date_start: '2014-01-01'
           date_end: '2017-02-28
-    # description: Economic analysis on a variety of policy areas (trade, commodities insurance, housing)
     design:
       columns: '2'
   - block: contact
