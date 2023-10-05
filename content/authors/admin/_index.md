@@ -72,7 +72,9 @@ highlight_name: true
 
 Hello.
 
-I'm a Ph.D. candidate in Political Economy and Government (Government Track) from Harvard University. My fields of study are political economy, development and comparative politics. Previously I worked in Mexico's federal government at the Ministry of Finance and Public Credit. 
+I am a Mexican economist and political scientist currently pursuing a PhD in Political Economy and Government at Harvard University. My PhD program was designed as collaborative program between the Harvard Kennedy School, the Department of Economics, and the Department of Government, with the objective of fostering research at the intersection of Economics and Political Science. My fields of study are political economy, economic development, comparative politics and public finance. My research focuses on empirical work using observational and experimental methods.
+
+Before my doctoral studies, I worked economist and policy-maker in Mexico's federal Ministry of Finance and Public Credit from 2014 to 2018. 
 
 I am on the non-academic job market in 2023-2024. 
 
