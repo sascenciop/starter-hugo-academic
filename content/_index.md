@@ -45,7 +45,6 @@ sections:
           date_end: '2018-08-15'
           description: |2-
               Responsibilities include:
-
               * Policy Analysis
               * Team leadeership and stakeholder coordination
               * Publishing official statistics
