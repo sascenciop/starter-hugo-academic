@@ -24,34 +24,6 @@ sections:
         - name: LaTeX
           icon: file
           icon_pack: fas
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-      - title: Director for Financial Policy Analysis
-          company: Ministry of Finance and Public Credit of Mexico
-          company_url: ''
-          company_logo: org-x
-          location: Mexico City
-          date_start: '2017-03-01'
-          date_end: '2018-08-15'
-      - title: Economic Advisor to the Undersecretary of Finance
-          company: Ministry of Finance and Public Credit of Mexico
-          company_url: ''
-          company_logo: org-x
-          location: Mexico City
-          date_start: '2014-01-01'
-          date_end: '2017-02-28
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
