@@ -56,7 +56,7 @@ sections:
           location: Mexico City
           date_start: '2014-01-01'
           date_end: '2017-02-28
-          description: Economic analysis on a variety of policy areas (trade, commodities insurance, housing)
+    # description: Economic analysis on a variety of policy areas (trade, commodities insurance, housing)
     design:
       columns: '2'
   - block: contact
