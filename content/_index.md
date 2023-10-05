@@ -36,27 +36,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Director for Financial Policy Analysis
+          company: Ministry of Finance and Public Credit of Mexico
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: org-x
+          location: Mexico City
+          date_start: '2017-03-01'
+          date_end: '2018-08-15'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Policy Analysis
+              * Team leadeership and stakeholder coordination
+              * Publishing official statistics
+        - title: Economic Advisor to the Undersecretary of Finance
+          company: Ministry of Finance and Public Credit of Mexico
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Mexico City
+          date_start: '2014-01-01'
+          date_end: '2017-02-28
+          description: Economic analysis on a variety of policy areas (trade, commodities insurance, housing)
     design:
       columns: '2'
   - block: contact
