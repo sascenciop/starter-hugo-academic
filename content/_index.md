@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -16,16 +16,13 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 80%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Stata
           icon: chart-line
           icon_pack: fas
-        - name: Stata
-          description: 90%
-          icon: chart-scatter
+        - name: LaTeX
+          icon: file
           icon_pack: fas
   - block: experience
     content:
