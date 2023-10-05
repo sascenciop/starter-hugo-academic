@@ -76,6 +76,6 @@ I am a Mexican economist and political scientist currently pursuing a PhD in Pol
 
 Before my doctoral studies, I worked economist and policy-maker in Mexico's federal Ministry of Finance and Public Credit from 2014 to 2018. 
 
-I am on the non-academic job market in 2023-2024. 
+I am on the non-academic job market in 2023-2024.
 
 {style="text-align: justify;"}
