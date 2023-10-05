@@ -47,8 +47,8 @@ sections:
               Responsibilities include:
 
               * Policy Analysis
-              * Team leadeership and stakeholder coordination
-              * Publishing official statistics
+              * Team Leadership and Stakeholder Coordination
+              * Publishing Official Statistics
         - title: Economic Advisor to the Undersecretary of Finance
           company: Ministry of Finance and Public Credit of Mexico
           company_url: ''
