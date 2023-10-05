@@ -43,7 +43,7 @@ sections:
           location: Mexico City
           date_start: '2017-03-01'
           date_end: '2018-08-15'
-       - title: Economic Advisor to the Undersecretary of Finance
+      - title: Economic Advisor to the Undersecretary of Finance
           company: Ministry of Finance and Public Credit of Mexico
           company_url: ''
           company_logo: org-x
